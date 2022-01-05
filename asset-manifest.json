@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fucha-event/static/css/main.e02dfdf8.css",
+    "main.js": "/fucha-event/static/js/main.768536d2.js",
+    "index.html": "/fucha-event/index.html",
+    "main.e02dfdf8.css.map": "/fucha-event/static/css/main.e02dfdf8.css.map",
+    "main.768536d2.js.map": "/fucha-event/static/js/main.768536d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02dfdf8.css",
+    "static/js/main.768536d2.js"
+  ]
+}
