@@ -9,12 +9,12 @@ import {
 } from "./NavbarElement";
 import MenuIcon from "@mui/icons-material/Menu";
 
-const Navbar = () => {
+const Navbar = ({toggle}) => {
   return (
     <>
       <Nav>
-        <NavbarContainer>
-          <MobileIcon>
+        <NavbarContainer >
+          <MobileIcon onClick={toggle}>
             <MenuIcon fontSize="large"/>
           </MobileIcon>
           <NavMenu>

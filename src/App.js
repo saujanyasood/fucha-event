@@ -1,14 +1,16 @@
 import './App.css';
-import Timeline from "./components/Intro/Timeline/Timeline"
-import Navbar from './components/Navbar/Navbar';
-import Sidebar from "./components/Sidebar/Sidebar"
+import Timeline from "./components/Timeline/Timeline"
+import Intro from './components/Intro/Intro';
+import Events from './components/Events/Events';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
     <div className="App">
-      <Navbar/>
-      <Sidebar/>
+      <Intro/>
+      <Events/>
       <Timeline/>
+      <Footer/>
     </div>
   );
 }

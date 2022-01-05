@@ -4,7 +4,6 @@ import { Link } from "react-scroll";
 export const Nav = styled.nav`
   background: #000;
   height: 80px;
-  margin-top: -80px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,7 +21,7 @@ export const NavbarContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80px;
+  height: 100%;
   z-index: 1;
   width: 100%;
   padding: 0 24px;
@@ -37,8 +36,8 @@ export const MobileIcon = styled.div`
     position: absolute;
     right: 0;
     top: 0;
-    transform: translate(-100%, 60%);
-    font-size: 1.8rem;
+    margin: 1.5rem;
+    font-size: 1.5rem;
     cursor: pointer;
     color: white;
   }
@@ -57,7 +56,7 @@ export const NavMenu = styled.ul`
 `;
 
 export const NavItem = styled.li`
-  height: 80px;
+  height: 100px;
 `;
 
 export const NavLinks = styled(Link)`
@@ -65,7 +64,7 @@ export const NavLinks = styled(Link)`
   display: flex;
   align-items: center;
   text-decoration: none;
-  padding: 0 3rem;
+  padding: 0 1rem;
   height: 100%;
   cursor: pointer;
 
