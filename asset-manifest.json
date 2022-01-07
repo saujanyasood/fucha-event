@@ -1,24 +1,31 @@
 {
   "files": {
-    "main.css": "/fucha-event/static/css/main.f7cb55d2.css",
-    "main.js": "/fucha-event/static/js/main.40c3ada7.js",
-    "static/media/video.mp4": "/fucha-event/static/media/video.e86494e44fa1f2dab322.mp4",
-    "static/media/techquiz.jpeg": "/fucha-event/static/media/techquiz.77ca5057f2e6df79d2e4.jpeg",
+    "main.css": "/fucha-event/static/css/main.7e34bcee.css",
+    "main.js": "/fucha-event/static/js/main.c8307e92.js",
+    "static/media/finalVideo.mp4": "/fucha-event/static/media/finalVideo.4886036ef753e083e591.mp4",
     "static/media/marvel.jpeg": "/fucha-event/static/media/marvel.79ccfd9f3d8cb1c9988a.jpeg",
     "static/media/naruto.jpeg": "/fucha-event/static/media/naruto.2bbf2f87940ceea81b64.jpeg",
-    "static/media/fpchess.jpg": "/fucha-event/static/media/fpchess.2f287e3ec9ae2cffb1eb.jpg",
-    "static/media/amongus.jpeg": "/fucha-event/static/media/amongus.48976c367509ef6d0470.jpeg",
     "static/media/smashkarts.jpeg": "/fucha-event/static/media/smashkarts.8efe20246fb78ec1b77b.jpeg",
-    "static/media/stumble.jpeg": "/fucha-event/static/media/stumble.ca71dc126d7f3a78b759.jpeg",
+    "static/media/stumble.jpeg": "/fucha-event/static/media/stumble.a1c016e13a76e5cb26b3.jpeg",
     "static/media/memecomp.jpeg": "/fucha-event/static/media/memecomp.37a1d4f603fc17695c3e.jpeg",
+    "static/media/antichess.jpeg": "/fucha-event/static/media/antichess.ebc6cc924882a0c79c44.jpeg",
     "static/media/logo.png": "/fucha-event/static/media/logo.c0a16b87b071023e7a3d.png",
-    "static/media/matrix.png": "/fucha-event/static/media/matrix.111078a2c47f98edad72.png",
+    "static/media/marvel.png": "/fucha-event/static/media/marvel.011d7e03e10d3fabddb0.png",
+    "static/media/anime.png": "/fucha-event/static/media/anime.f9ec7c671893c2022dcb.png",
+    "static/media/smash.png": "/fucha-event/static/media/smash.9d3af10420928b585cc0.png",
+    "static/media/stumble.png": "/fucha-event/static/media/stumble.b65515f2c16d7d376296.png",
+    "static/media/chess.png": "/fucha-event/static/media/chess.99d29e894da802331ad9.png",
+    "static/media/instagramoutlined.png": "/fucha-event/static/media/instagramoutlined.62cbc195d69a80a4a542.png",
+    "static/media/meme.png": "/fucha-event/static/media/meme.e74a4f294cb8dffe91df.png",
+    "static/media/linkedinoutlined2.png": "/fucha-event/static/media/linkedinoutlined2.f0388c1f961c2eb8d069.png",
+    "static/media/facebookoutlined.png": "/fucha-event/static/media/facebookoutlined.5d03928aec817d46f72b.png",
+    "static/media/linkedinlogo.png": "/fucha-event/static/media/linkedinlogo.29e6db65c721761d12dd.png",
     "index.html": "/fucha-event/index.html",
-    "main.f7cb55d2.css.map": "/fucha-event/static/css/main.f7cb55d2.css.map",
-    "main.40c3ada7.js.map": "/fucha-event/static/js/main.40c3ada7.js.map"
+    "main.7e34bcee.css.map": "/fucha-event/static/css/main.7e34bcee.css.map",
+    "main.c8307e92.js.map": "/fucha-event/static/js/main.c8307e92.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7cb55d2.css",
-    "static/js/main.40c3ada7.js"
+    "static/css/main.7e34bcee.css",
+    "static/js/main.c8307e92.js"
   ]
 }
