@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fucha-event/static/css/main.7e34bcee.css",
-    "main.js": "/fucha-event/static/js/main.fc2d43df.js",
+    "main.js": "/fucha-event/static/js/main.0794033b.js",
     "static/media/finalVideo.mp4": "/fucha-event/static/media/finalVideo.4886036ef753e083e591.mp4",
     "static/media/marvel.jpeg": "/fucha-event/static/media/marvel.79ccfd9f3d8cb1c9988a.jpeg",
     "static/media/naruto.jpeg": "/fucha-event/static/media/naruto.2bbf2f87940ceea81b64.jpeg",
@@ -23,10 +23,10 @@
     "static/media/discord.png": "/fucha-event/static/media/discord.f1174c8cea4794e64dd0.png",
     "index.html": "/fucha-event/index.html",
     "main.7e34bcee.css.map": "/fucha-event/static/css/main.7e34bcee.css.map",
-    "main.fc2d43df.js.map": "/fucha-event/static/js/main.fc2d43df.js.map"
+    "main.0794033b.js.map": "/fucha-event/static/js/main.0794033b.js.map"
   },
   "entrypoints": [
     "static/css/main.7e34bcee.css",
-    "static/js/main.fc2d43df.js"
+    "static/js/main.0794033b.js"
   ]
 }
