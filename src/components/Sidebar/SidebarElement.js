@@ -6,14 +6,13 @@ export const SidebarContainer = styled.aside`
   z-index: 999;
   width: 100%;
   height: 100%;
-  background: #0d0d0d;
+  background: #020910;
   display: grid;
   align-items: center;
   top: 0;
   left: 0;
   transition: 0.3s ease-in-out;
   top: ${({ isOpen }) => (isOpen ? "0" : "-100%")};
-  //   top: 0;
 `;
 
 export const Icon = styled.div`
@@ -27,6 +26,9 @@ export const Icon = styled.div`
 
 export const SidebarWrapper = styled.div`
   color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 `;
 
 export const SidebarMenu = styled.ul`
@@ -47,7 +49,12 @@ export const SidebarLink = styled(Link)`
   font-weight: bold;
 
   &:hover {
-    color: #01bf71;
     transition: 0.2s ease-in-out;
   }
+`;
+
+export const BtnWrapper = styled.a`
+  text-decoration: none;
+  color: black;
+  margin-top: 30px;
 `;

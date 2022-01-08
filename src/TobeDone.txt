@@ -1,0 +1,10 @@
+1. Fix the navbar, make it appear throughout the site
+2. Event names for all the events
+3. Finalise the events
+4. The timeline
+Do mapping for the timeline
+5. Add hover features to the timeline
+6. Add Discord button
+7. Add names of developers
+8. Add Button for joining
+9. Add button for joining in mobile view (inside menu)

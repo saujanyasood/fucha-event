@@ -1,4 +1,35 @@
-.timeline{
-    position:relative;
-    top: 80px;
+.timeline {
+  top: 80px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.timeline .heading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: 400;
+  color: #fafafd;
+  margin-bottom: 30px;
+}
+
+.dateStyle {
+  color: white;
+  opacity: 1;
+  z-index: 200;
+}
+
+.vertical-timeline-element-content .vertical-timeline-element-date.vertical-timeline-element-content .vertical-timeline-element-date{
+  color: white;
+  opacity: 1;
+  z-index: 200;
+  font-size: 40px;
+}
+
+@media screen and (max-width: 1000px) {
+  .dateStyle {
+    color: black;
+  }
 }

@@ -6,13 +6,14 @@ export const Heading = styled.div`
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    padding-top: 30px;
     font-size: 24px;
     font-weight: 400;
+    color: #FAFAFD;
 `
 
 export const EventsContainer = styled.div`
-    width: 100%;
+    width: 80%;
     margin: 0;
     padding: 10px;
     display: flex;
